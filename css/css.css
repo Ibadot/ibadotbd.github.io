@@ -1,0 +1,88 @@
+*{margin:0px;padding:0px;}
+body{
+background-color:powderblue;
+}
+h2{color:red;
+}
+.freelancer{
+background-color:#00a3cc;
+text-align:center;
+}
+.freelancer h1{margin:0px;}
+
+.marquee {
+    background-color: #b82e8a;
+    height: 38px;
+    color: white;
+    font-size: 33px;
+	   border-bottom: 8px solid #33ad84;
+	   font-style: italic;
+    font-weight: bold;
+}
+
+.main{text-align:center;
+}
+
+.content{background:#f8f8fbbf;width:295px;margin:7px;
+text-align:center;padding:25px;line-height:30px;
+font-size:20px;display:inline-block;
+}
+span img{width:100%;padding-top:20px;
+}
+span{width:130px;
+display:inline-block;text-align:auto;
+}
+.content h2{padding-top:10px;
+}
+.content p{padding-top:10px;
+}
+
+
+
+.content2{    background: #f8f8fbbf;
+    width: 1200px;
+    display: block;
+    margin: auto;
+	margin-top:10px;
+}
+.fast{width:750px;float:right;
+}
+.ownpic{width:350px;height:400px;padding-left:50px;
+padding-top:20px;
+}
+.ownpic img{height:400px;}
+.runnerup3{width:225px;
+padding-left:10px;
+padding-right:10px;}
+
+.freelancercontent{width:1250px;background:#f8f8fbbf;
+margin:auto;margin-top:15px;
+text-align:center;
+
+}
+.topwrite{font-size:50px;}
+.subcontent{
+	width:350px;text-align:center;
+	display:inline-block;
+}
+.freelancerimg{width:300px;
+	
+}
+.writing{
+}
+.freelancercontent p{padding:10px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
